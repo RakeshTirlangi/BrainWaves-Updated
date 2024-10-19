@@ -86,7 +86,7 @@ Want to make this project even better? We welcome all contributions!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Rakesh@Bug License.
 
 ---
 
