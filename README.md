@@ -1,5 +1,3 @@
-Here's a **README** for the "BrainWave - Solver" project with a professional tone and a hint of humor:
-
 ---
 
 # BrainWave - Solver 🧠🖊️
