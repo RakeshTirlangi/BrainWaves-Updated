@@ -7,6 +7,7 @@ Welcome to **BrainWave - Solver**, where your doodles meet math! This project co
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,6 +19,24 @@ Welcome to **BrainWave - Solver**, where your doodles meet math! This project co
 **BrainWave - Solver** is a web-based canvas drawing app where you can unleash your inner mathematician by sketching math symbols, expressions, or just scribbling. This project is designed to recognize and analyze these drawings, turning them into understandable mathematical expressions (aka solving them). No need to worry if you're not good at drawing – as long as your math doodles are recognizable, this solver's got your back!
 
 > "It's not just drawing; it's *artistic problem-solving*."
+
+## Demo
+
+Here are some images showcasing how **BrainWave - Solver** works:
+
+![Canvas Drawing Example](path/to/your/image1.png)
+
+*Drawing a quadratic equation.*
+
+![Analysis Result](path/to/your/image2.png)
+
+*Analyzed result displayed in LaTeX.*
+
+![Color Palette](path/to/your/image3.png)
+
+*Using the color palette to make math beautiful!*
+
+(Replace the `path/to/your/imageX.png` with the actual paths to your demo images.)
 
 ## Features
 
