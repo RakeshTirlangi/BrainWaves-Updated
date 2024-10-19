@@ -24,17 +24,9 @@ Welcome to **BrainWave - Solver**, where your doodles meet math! This project co
 
 Here are some images showcasing how **BrainWave - Solver** works:
 
-![Canvas Drawing Example](path/to/your/image1.png)
-
-*Drawing a quadratic equation.*
-
-![Analysis Result](path/to/your/image2.png)
-
-*Analyzed result displayed in LaTeX.*
-
-![Color Palette](path/to/your/image3.png)
-
-*Using the color palette to make math beautiful!*
+![Demo Image 1](path/to/your/image1.png)
+![Demo Image 2](path/to/your/image2.png)
+![Demo Image 3](path/to/your/image3.png)
 
 (Replace the `path/to/your/imageX.png` with the actual paths to your demo images.)
 
