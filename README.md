@@ -26,6 +26,7 @@ Here are some images showcasing how **BrainWave - Solver** works:
 
 ![Demo Image 1](images/Screenshot 2024-10-20 122002.png)
 
+
 ## Features
 
 - 🖌️ **Canvas Drawing**: Start with a blank slate and draw your equations like a true mathematician.
