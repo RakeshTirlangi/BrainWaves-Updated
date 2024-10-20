@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import axios from 'axios';
 import Draggable from 'react-draggable';
 import { SWATCHES } from '@/constants';
+import '../../App.css'
 
 interface GeneratedResult {
   expression: string;
@@ -192,6 +193,9 @@ export default function Home() {
 
   return (
     <>
+      <div className="w-full flex items-center justify-center bg-black h-[80px]">
+        <div className="text-bold text-3xl text-white logo"><span className="text-[aqua]">BrainWave</span> <span className="ps-3">Solver</span> </div>
+      </div>
       <div className="grid grid-cols-4 gap-2">
         <Button
           onClick={() => {
@@ -241,7 +245,7 @@ export default function Home() {
           onMouseMove={draw}
           onMouseUp={stopDrawing}
           onMouseLeave={stopDrawing}
-          className="absolute top-0 left-0 z-0"
+          className="absolute top-[80px] left-0 z-0"
         ></canvas>
         {latexExpression.map((latex, index) => (
           <Draggable
@@ -251,7 +255,7 @@ export default function Home() {
               setLatexPosition({ x: data.x, y: data.y });
             }}
           >
-            <div className="z-10 text-white bg-gray-800 px-2 py-1">
+            <div className="z-10 text-white bg-gray-800 max-w-[700px] px-2 py-1">
               <div
                 dangerouslySetInnerHTML={{
                   __html: window.MathJax?.Hub?.getAllJax(latex) || latex,
@@ -260,7 +264,11 @@ export default function Home() {
             </div>
           </Draggable>
         ))}
+        
       </div>
+      <div className="w-full flex items-center  absolute bottom-0 left-0 z-[100] justify-center">
+          <div className="logo text-white">&copy; <span className="px-3">SP</span> <span className=" text-[aqua]">bugS</span></div>
+        </div>
     </>
   );
 }
