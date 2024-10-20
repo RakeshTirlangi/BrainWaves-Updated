@@ -24,7 +24,7 @@ Welcome to **BrainWave - Solver**, where your doodles meet math! This project co
 
 Here are some images showcasing how **BrainWave - Solver** works:
 
-![Demo Image 1](images/Screenshot 2024-10-20 122002.png)
+![Demo Image 1](images/result.png)
 
 
 ## Features
