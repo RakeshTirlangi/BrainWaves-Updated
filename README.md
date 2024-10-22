@@ -1,8 +1,6 @@
-Here's the updated README file for the **BrainWave - Solver**, highlighting the new feature that explains the solution step-by-step:
-
 ---
 
-# BrainWave - Solver 🧠🖊️
+# BrainWave - Solver (Beta Version) 🧠🖊️
 
 Welcome to **BrainWave - Solver**, where doodles meet detailed math explanations! This project takes your canvas drawings and not only solves the equations, but now walks you through the solution *step-by-step* like a math teacher who’s had just the right amount of coffee. Ready to solve equations with the flick of your wrist (or mouse)? Let’s get started!
 
