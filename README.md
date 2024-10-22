@@ -24,7 +24,7 @@ Welcome to **BrainWave - Solver**, where doodles meet detailed math explanations
 
 Check out how **BrainWave - Solver** solves and explains equations:
 
-![Demo Image 1](images/result.png)
+![Demo Image 1](images/result-3.png)
 
 ## Features
 
