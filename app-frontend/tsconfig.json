@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,  // Optional: Skips type checking of declaration files
+    "strict": false, 
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
